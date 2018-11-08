@@ -1,0 +1,7 @@
+server:
+  port: 9002
+
+kafka:
+  producer:
+    bootstrap: localhost:9092
+    topic: all.messages

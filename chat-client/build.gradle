@@ -1,0 +1,4 @@
+bootJar {
+	mainClassName = 'com.bnsf.kafkatest.chatclient.ChatClientApplication'
+	classifier = 'exec'
+}

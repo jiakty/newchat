@@ -1,0 +1,2 @@
+include 'chat-service'
+include 'chat-client'
